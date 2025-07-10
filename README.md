@@ -1,4 +1,4 @@
-![Banner](/docs/Cpa_Linkedin.png)
+
 
 # Leilson Santos Silva
 
